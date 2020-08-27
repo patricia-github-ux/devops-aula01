@@ -1,0 +1,6 @@
+O Git é um sistema de controle de versão que registra as alterações realizadas em um arquivo ou conjunto de arquivos ao longo do tempo e ajuda a recuperar versões específicas do código posteriormente, quando necessário. Os principais benefícios do Git são:  Reverter os arquivos de código de volta ao estado anterior. Recuperar e reverter todo o projeto de volta ao estado anterior. Comprar as alterações de código em durações específicas de tempo. Descubra quem modificou pela última vez um trecho de código que pode estar causando um problema ou um problema.
+Git tem um desempenho muito forte e confiável quando comparado a outros sistemas de controle de versão.
+Git é projetado especialmente para manter a integridade do código-fonte. 
+Um objetivo principal de design do Git é o tipo de flexibilidade que ele oferece para suportar vários tipos de fluxos de trabalho de desenvolvimento não linear e sua eficiência em lidar com projetos de pequena e grande escala, bem como protocolos.
+Git oferece o tipo de desempenho, funcionalidade, segurança e flexibilidade que a maioria dos desenvolvedores e equipes precisam para desenvolver seus projetos.
+Git é um projeto de código aberto com amplo suporte, com mais de dez anos de história operacional.
